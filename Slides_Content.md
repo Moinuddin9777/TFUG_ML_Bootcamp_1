@@ -1,3 +1,16 @@
+Drive Links:
+---
+Session 1: https://docs.google.com/presentation/d/1wzxjM814A8BkU6Lr95leMcMCWtVLwJJ49mZGkEO4sRA/edit?usp=sharing
+
+
+Session 2: https://docs.google.com/presentation/d/1r1rmmiRkpyVteSsvpTvG-mSgy2C121UUu0o_-7S6zzI/edit?usp=sharing
+
+
+Session 3: https://docs.google.com/presentation/d/1Ye6k0KNmqnRPR3pAmfT-ynYqoPxF_s_F8wMnKGvQieg/edit?usp=sharing
+
+
+Content:
+---
 ![image](https://github.com/Moinuddin9777/TFUG_ML_Bootcamp_1/assets/76849575/006dc591-e557-4126-9026-cd8948f85e27)
 ![image](https://github.com/Moinuddin9777/TFUG_ML_Bootcamp_1/assets/76849575/597596d1-1d29-491d-a1d6-e31d3a333de4)
 ![image](https://github.com/Moinuddin9777/TFUG_ML_Bootcamp_1/assets/76849575/3f39c973-38a1-4a97-9b41-422c618096a7)
